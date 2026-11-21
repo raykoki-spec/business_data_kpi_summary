@@ -1,0 +1,540 @@
+date,product_id,quantity_sold,customer_id,customer_name
+2026-09-21,SP-001,4,CUST-12,Ziwa Diesel Garage
+2026-09-21,SP-002,5,CUST-20,Wells Cargo Ltd
+2026-09-21,SP-003,3,CUST-09,Turbo Cargo Movers
+2026-09-21,SP-004,1,CUST-13,Kobil Haulers
+2026-09-21,SP-005,1,CUST-19,Bridge-Way Motors
+2026-09-21,SP-006,3,CUST-14,Lessos Truck Repairs
+2026-09-21,SP-008,4,CUST-19,Bridge-Way Motors
+2026-09-21,SP-013,2,CUST-13,Kobil Haulers
+2026-09-21,SP-014,1,CUST-17,Laser Freight
+2026-09-21,SP-017,1,CUST-02,Eldoret Transporters Co.
+2026-09-21,SP-018,2,CUST-05,Petrocity Ltd
+2026-09-21,SP-019,1,CUST-06,MM Musa Oil Transportes
+2026-09-22,SP-001,6,CUST-02,Eldoret Transporters Co.
+2026-09-22,SP-006,2,CUST-05,Petrocity Ltd
+2026-09-22,SP-007,1,CUST-03,K-Kiv Freight Ltd
+2026-09-22,SP-010,1,CUST-06,MM Musa Oil Transportes
+2026-09-22,SP-012,1,CUST-14,Lessos Truck Repairs
+2026-09-22,SP-013,2,CUST-09,Turbo Cargo Movers
+2026-09-22,SP-014,1,CUST-09,Turbo Cargo Movers
+2026-09-22,SP-017,1,CUST-04,ShoreLine Petroleum
+2026-09-22,SP-018,1,CUST-05,Petrocity Ltd
+2026-09-23,SP-001,6,CUST-20,Wells Cargo Ltd
+2026-09-23,SP-002,7,CUST-17,Laser Freight
+2026-09-23,SP-003,1,CUST-14,Lessos Truck Repairs
+2026-09-23,SP-004,3,CUST-03,K-Kiv Freight Ltd
+2026-09-23,SP-005,3,CUST-17,Laser Freight
+2026-09-23,SP-010,1,CUST-03,K-Kiv Freight Ltd
+2026-09-23,SP-014,2,CUST-09,Turbo Cargo Movers
+2026-09-23,SP-017,2,CUST-20,Wells Cargo Ltd
+2026-09-23,SP-018,2,CUST-17,Laser Freight
+2026-09-24,SP-001,5,CUST-13,Kobil Haulers
+2026-09-24,SP-002,4,CUST-17,Laser Freight
+2026-09-24,SP-003,4,CUST-19,Bridge-Way Motors
+2026-09-24,SP-004,2,CUST-19,Bridge-Way Motors
+2026-09-24,SP-008,1,CUST-05,Petrocity Ltd
+2026-09-24,SP-011,1,CUST-01,Rift Valley Haulage Ltd
+2026-09-24,SP-012,1,CUST-06,MM Musa Oil Transportes
+2026-09-24,SP-016,1,CUST-05,Petrocity Ltd
+2026-09-24,SP-017,1,CUST-04,ShoreLine Petroleum
+2026-09-24,SP-018,1,CUST-20,Wells Cargo Ltd
+2026-09-25,SP-001,3,CUST-19,Bridge-Way Motors
+2026-09-25,SP-002,2,CUST-06,MM Musa Oil Transportes
+2026-09-25,SP-003,3,CUST-17,Laser Freight
+2026-09-25,SP-004,2,CUST-09,Turbo Cargo Movers
+2026-09-25,SP-005,1,CUST-20,Wells Cargo Ltd
+2026-09-25,SP-006,2,CUST-11,DT Auto Garage
+2026-09-25,SP-007,2,CUST-05,Petrocity Ltd
+2026-09-25,SP-013,2,CUST-05,Petrocity Ltd
+2026-09-25,SP-014,1,CUST-13,Kobil Haulers
+2026-09-25,SP-017,4,CUST-05,Petrocity Ltd
+2026-09-25,SP-018,4,CUST-13,Kobil Haulers
+2026-09-25,SP-019,3,CUST-19,Bridge-Way Motors
+2026-09-26,SP-001,3,CUST-09,Turbo Cargo Movers
+2026-09-26,SP-002,3,CUST-04,ShoreLine Petroleum
+2026-09-26,SP-008,1,CUST-20,Wells Cargo Ltd
+2026-09-26,SP-009,1,CUST-12,Ziwa Diesel Garage
+2026-09-26,SP-012,1,CUST-03,K-Kiv Freight Ltd
+2026-09-26,SP-014,1,CUST-02,Eldoret Transporters Co.
+2026-09-26,SP-018,2,CUST-03,K-Kiv Freight Ltd
+2026-09-28,SP-001,1,CUST-14,Lessos Truck Repairs
+2026-09-28,SP-002,4,CUST-19,Bridge-Way Motors
+2026-09-28,SP-003,3,CUST-09,Turbo Cargo Movers
+2026-09-28,SP-004,2,CUST-02,Eldoret Transporters Co.
+2026-09-28,SP-006,6,CUST-09,Turbo Cargo Movers
+2026-09-28,SP-007,2,CUST-20,Wells Cargo Ltd
+2026-09-28,SP-010,1,CUST-12,Ziwa Diesel Garage
+2026-09-28,SP-011,2,CUST-20,Wells Cargo Ltd
+2026-09-28,SP-012,1,CUST-19,Bridge-Way Motors
+2026-09-28,SP-013,2,CUST-01,Rift Valley Haulage Ltd
+2026-09-28,SP-014,2,CUST-17,Laser Freight
+2026-09-28,SP-018,2,CUST-17,Laser Freight
+2026-09-29,SP-001,3,CUST-12,Ziwa Diesel Garage
+2026-09-29,SP-002,1,CUST-05,Petrocity Ltd
+2026-09-29,SP-003,3,CUST-17,Laser Freight
+2026-09-29,SP-004,1,CUST-03,K-Kiv Freight Ltd
+2026-09-29,SP-011,1,CUST-09,Turbo Cargo Movers
+2026-09-29,SP-012,2,CUST-09,Turbo Cargo Movers
+2026-09-29,SP-013,2,CUST-20,Wells Cargo Ltd
+2026-09-29,SP-014,2,CUST-19,Bridge-Way Motors
+2026-09-29,SP-017,2,CUST-05,Petrocity Ltd
+2026-09-29,SP-018,4,CUST-12,Ziwa Diesel Garage
+2026-09-29,SP-019,2,CUST-03,K-Kiv Freight Ltd
+2026-09-30,SP-001,3,CUST-20,Wells Cargo Ltd
+2026-09-30,SP-002,4,CUST-19,Bridge-Way Motors
+2026-09-30,SP-003,1,CUST-06,MM Musa Oil Transportes
+2026-09-30,SP-004,6,CUST-17,Laser Freight
+2026-09-30,SP-006,2,CUST-14,Lessos Truck Repairs
+2026-09-30,SP-007,2,CUST-03,K-Kiv Freight Ltd
+2026-09-30,SP-009,1,CUST-17,Laser Freight
+2026-09-30,SP-011,1,CUST-12,Ziwa Diesel Garage
+2026-09-30,SP-012,2,CUST-19,Bridge-Way Motors
+2026-09-30,SP-014,1,CUST-12,Ziwa Diesel Garage
+2026-09-30,SP-019,1,CUST-01,Rift Valley Haulage Ltd
+2026-10-01,SP-001,4,CUST-09,Turbo Cargo Movers
+2026-10-01,SP-002,1,CUST-01,Rift Valley Haulage Ltd
+2026-10-01,SP-003,1,CUST-20,Wells Cargo Ltd
+2026-10-01,SP-004,5,CUST-19,Bridge-Way Motors
+2026-10-01,SP-007,1,CUST-19,Bridge-Way Motors
+2026-10-01,SP-008,1,CUST-06,MM Musa Oil Transportes
+2026-10-01,SP-009,2,CUST-02,Eldoret Transporters Co.
+2026-10-01,SP-014,1,CUST-19,Bridge-Way Motors
+2026-10-01,SP-015,1,CUST-20,Wells Cargo Ltd
+2026-10-01,SP-016,1,CUST-02,Eldoret Transporters Co.
+2026-10-01,SP-018,2,CUST-11,DT Auto Garage
+2026-10-01,SP-019,1,CUST-02,Eldoret Transporters Co.
+2026-10-02,SP-001,5,CUST-17,Laser Freight
+2026-10-02,SP-002,2,CUST-17,Laser Freight
+2026-10-02,SP-003,1,CUST-03,K-Kiv Freight Ltd
+2026-10-02,SP-004,1,CUST-11,DT Auto Garage
+2026-10-02,SP-006,4,CUST-13,Kobil Haulers
+2026-10-02,SP-007,1,CUST-05,Petrocity Ltd
+2026-10-02,SP-008,1,CUST-19,Bridge-Way Motors
+2026-10-02,SP-009,1,CUST-09,Turbo Cargo Movers
+2026-10-02,SP-010,1,CUST-04,ShoreLine Petroleum
+2026-10-02,SP-012,2,CUST-12,Ziwa Diesel Garage
+2026-10-02,SP-014,1,CUST-17,Laser Freight
+2026-10-02,SP-015,1,CUST-04,ShoreLine Petroleum
+2026-10-02,SP-017,1,CUST-06,MM Musa Oil Transportes
+2026-10-02,SP-018,2,CUST-20,Wells Cargo Ltd
+2026-10-03,SP-001,1,CUST-17,Laser Freight
+2026-10-03,SP-002,6,CUST-09,Turbo Cargo Movers
+2026-10-03,SP-003,2,CUST-12,Ziwa Diesel Garage
+2026-10-03,SP-006,2,CUST-03,K-Kiv Freight Ltd
+2026-10-03,SP-013,1,CUST-04,ShoreLine Petroleum
+2026-10-03,SP-014,1,CUST-09,Turbo Cargo Movers
+2026-10-03,SP-018,1,CUST-13,Kobil Haulers
+2026-10-05,SP-001,3,CUST-05,Petrocity Ltd
+2026-10-05,SP-002,2,CUST-05,Petrocity Ltd
+2026-10-05,SP-004,1,CUST-02,Eldoret Transporters Co.
+2026-10-05,SP-006,1,CUST-16,Nakuru Heavy Motors
+2026-10-05,SP-007,1,CUST-05,Petrocity Ltd
+2026-10-05,SP-008,1,CUST-19,Bridge-Way Motors
+2026-10-05,SP-009,1,CUST-19,Bridge-Way Motors
+2026-10-05,SP-013,5,CUST-02,Eldoret Transporters Co.
+2026-10-05,SP-017,2,CUST-05,Petrocity Ltd
+2026-10-05,SP-018,1,CUST-17,Laser Freight
+2026-10-05,SP-019,1,CUST-05,Petrocity Ltd
+2026-10-06,SP-001,4,CUST-03,K-Kiv Freight Ltd
+2026-10-06,SP-002,1,CUST-20,Wells Cargo Ltd
+2026-10-06,SP-004,4,CUST-14,Lessos Truck Repairs
+2026-10-06,SP-007,1,CUST-12,Ziwa Diesel Garage
+2026-10-06,SP-012,2,CUST-17,Laser Freight
+2026-10-06,SP-014,3,CUST-19,Bridge-Way Motors
+2026-10-06,SP-018,1,CUST-04,ShoreLine Petroleum
+2026-10-07,SP-001,7,CUST-03,K-Kiv Freight Ltd
+2026-10-07,SP-002,4,CUST-11,DT Auto Garage
+2026-10-07,SP-003,3,CUST-11,DT Auto Garage
+2026-10-07,SP-004,2,CUST-12,Ziwa Diesel Garage
+2026-10-07,SP-005,1,CUST-17,Laser Freight
+2026-10-07,SP-006,2,CUST-17,Laser Freight
+2026-10-07,SP-017,1,CUST-20,Wells Cargo Ltd
+2026-10-08,SP-001,3,CUST-03,K-Kiv Freight Ltd
+2026-10-08,SP-002,1,CUST-09,Turbo Cargo Movers
+2026-10-08,SP-005,1,CUST-09,Turbo Cargo Movers
+2026-10-08,SP-006,1,CUST-19,Bridge-Way Motors
+2026-10-08,SP-007,1,CUST-05,Petrocity Ltd
+2026-10-08,SP-009,1,CUST-04,ShoreLine Petroleum
+2026-10-08,SP-011,1,CUST-11,DT Auto Garage
+2026-10-08,SP-013,1,CUST-11,DT Auto Garage
+2026-10-08,SP-015,1,CUST-06,MM Musa Oil Transportes
+2026-10-08,SP-017,3,CUST-05,Petrocity Ltd
+2026-10-08,SP-018,3,CUST-20,Wells Cargo Ltd
+2026-10-08,SP-019,2,CUST-11,DT Auto Garage
+2026-10-09,SP-001,3,CUST-19,Bridge-Way Motors
+2026-10-09,SP-002,4,CUST-14,Lessos Truck Repairs
+2026-10-09,SP-003,4,CUST-02,Eldoret Transporters Co.
+2026-10-09,SP-004,1,CUST-20,Wells Cargo Ltd
+2026-10-09,SP-005,1,CUST-19,Bridge-Way Motors
+2026-10-09,SP-006,2,CUST-20,Wells Cargo Ltd
+2026-10-09,SP-007,3,CUST-20,Wells Cargo Ltd
+2026-10-09,SP-008,1,CUST-19,Bridge-Way Motors
+2026-10-09,SP-009,2,CUST-03,K-Kiv Freight Ltd
+2026-10-09,SP-011,1,CUST-12,Ziwa Diesel Garage
+2026-10-09,SP-013,2,CUST-05,Petrocity Ltd
+2026-10-09,SP-017,1,CUST-09,Turbo Cargo Movers
+2026-10-09,SP-018,2,CUST-02,Eldoret Transporters Co.
+2026-10-09,SP-019,1,CUST-09,Turbo Cargo Movers
+2026-10-10,SP-001,1,CUST-20,Wells Cargo Ltd
+2026-10-10,SP-002,2,CUST-06,MM Musa Oil Transportes
+2026-10-10,SP-004,1,CUST-17,Laser Freight
+2026-10-10,SP-005,2,CUST-11,DT Auto Garage
+2026-10-10,SP-006,1,CUST-11,DT Auto Garage
+2026-10-10,SP-007,3,CUST-20,Wells Cargo Ltd
+2026-10-10,SP-010,1,CUST-20,Wells Cargo Ltd
+2026-10-10,SP-013,1,CUST-14,Lessos Truck Repairs
+2026-10-10,SP-014,1,CUST-17,Laser Freight
+2026-10-10,SP-017,1,CUST-03,K-Kiv Freight Ltd
+2026-10-10,SP-018,1,CUST-09,Turbo Cargo Movers
+2026-10-10,SP-019,1,CUST-20,Wells Cargo Ltd
+2026-10-12,SP-001,3,CUST-14,Lessos Truck Repairs
+2026-10-12,SP-002,3,CUST-14,Lessos Truck Repairs
+2026-10-12,SP-003,3,CUST-17,Laser Freight
+2026-10-12,SP-004,1,CUST-02,Eldoret Transporters Co.
+2026-10-12,SP-007,1,CUST-15,Puma Transporters
+2026-10-12,SP-009,1,CUST-13,Kobil Haulers
+2026-10-12,SP-013,3,CUST-19,Bridge-Way Motors
+2026-10-12,SP-015,1,CUST-03,K-Kiv Freight Ltd
+2026-10-12,SP-016,1,CUST-20,Wells Cargo Ltd
+2026-10-12,SP-017,2,CUST-02,Eldoret Transporters Co.
+2026-10-12,SP-019,4,CUST-04,ShoreLine Petroleum
+2026-10-13,SP-001,6,CUST-15,Puma Transporters
+2026-10-13,SP-002,2,CUST-17,Laser Freight
+2026-10-13,SP-003,1,CUST-05,Petrocity Ltd
+2026-10-13,SP-004,1,CUST-03,K-Kiv Freight Ltd
+2026-10-13,SP-005,1,CUST-19,Bridge-Way Motors
+2026-10-13,SP-006,2,CUST-05,Petrocity Ltd
+2026-10-13,SP-007,1,CUST-15,Puma Transporters
+2026-10-13,SP-009,1,CUST-15,Puma Transporters
+2026-10-13,SP-014,1,CUST-11,DT Auto Garage
+2026-10-13,SP-017,1,CUST-15,Puma Transporters
+2026-10-13,SP-018,1,CUST-13,Kobil Haulers
+2026-10-14,SP-001,6,CUST-20,Wells Cargo Ltd
+2026-10-14,SP-002,4,CUST-04,ShoreLine Petroleum
+2026-10-14,SP-006,2,CUST-17,Laser Freight
+2026-10-14,SP-007,1,CUST-05,Petrocity Ltd
+2026-10-14,SP-009,1,CUST-09,Turbo Cargo Movers
+2026-10-14,SP-017,1,CUST-17,Laser Freight
+2026-10-14,SP-018,2,CUST-09,Turbo Cargo Movers
+2026-10-14,SP-019,1,CUST-09,Turbo Cargo Movers
+2026-10-15,SP-001,6,CUST-17,Laser Freight
+2026-10-15,SP-002,2,CUST-02,Eldoret Transporters Co.
+2026-10-15,SP-003,1,CUST-11,DT Auto Garage
+2026-10-15,SP-004,1,CUST-19,Bridge-Way Motors
+2026-10-15,SP-006,1,CUST-19,Bridge-Way Motors
+2026-10-15,SP-007,1,CUST-02,Eldoret Transporters Co.
+2026-10-15,SP-008,1,CUST-04,ShoreLine Petroleum
+2026-10-15,SP-012,3,CUST-06,MM Musa Oil Transportes
+2026-10-15,SP-013,1,CUST-19,Bridge-Way Motors
+2026-10-15,SP-017,1,CUST-19,Bridge-Way Motors
+2026-10-15,SP-019,1,CUST-19,Bridge-Way Motors
+2026-10-16,SP-001,4,CUST-09,Turbo Cargo Movers
+2026-10-16,SP-002,4,CUST-03,K-Kiv Freight Ltd
+2026-10-16,SP-003,1,CUST-17,Laser Freight
+2026-10-16,SP-004,4,CUST-17,Laser Freight
+2026-10-16,SP-007,1,CUST-15,Puma Transporters
+2026-10-16,SP-013,1,CUST-19,Bridge-Way Motors
+2026-10-16,SP-018,1,CUST-16,Nakuru Heavy Motors
+2026-10-16,SP-019,2,CUST-01,Rift Valley Haulage Ltd
+2026-10-17,SP-001,6,CUST-17,Laser Freight
+2026-10-17,SP-002,1,CUST-06,MM Musa Oil Transportes
+2026-10-17,SP-003,1,CUST-16,Nakuru Heavy Motors
+2026-10-17,SP-004,4,CUST-19,Bridge-Way Motors
+2026-10-17,SP-006,2,CUST-03,K-Kiv Freight Ltd
+2026-10-17,SP-009,1,CUST-03,K-Kiv Freight Ltd
+2026-10-17,SP-010,1,CUST-03,K-Kiv Freight Ltd
+2026-10-17,SP-017,1,CUST-14,Lessos Truck Repairs
+2026-10-17,SP-018,2,CUST-06,MM Musa Oil Transportes
+2026-10-19,SP-001,1,CUST-15,Puma Transporters
+2026-10-19,SP-002,3,CUST-17,Laser Freight
+2026-10-19,SP-004,4,CUST-04,ShoreLine Petroleum
+2026-10-19,SP-006,1,CUST-15,Puma Transporters
+2026-10-19,SP-007,2,CUST-06,MM Musa Oil Transportes
+2026-10-19,SP-008,2,CUST-11,DT Auto Garage
+2026-10-19,SP-009,1,CUST-19,Bridge-Way Motors
+2026-10-19,SP-010,1,CUST-17,Laser Freight
+2026-10-19,SP-011,1,CUST-02,Eldoret Transporters Co.
+2026-10-19,SP-013,3,CUST-09,Turbo Cargo Movers
+2026-10-19,SP-014,1,CUST-06,MM Musa Oil Transportes
+2026-10-19,SP-017,1,CUST-01,Rift Valley Haulage Ltd
+2026-10-19,SP-019,2,CUST-17,Laser Freight
+2026-10-20,SP-001,7,CUST-15,Puma Transporters
+2026-10-20,SP-002,4,CUST-06,MM Musa Oil Transportes
+2026-10-20,SP-003,2,CUST-17,Laser Freight
+2026-10-20,SP-004,1,CUST-14,Lessos Truck Repairs
+2026-10-20,SP-005,1,CUST-09,Turbo Cargo Movers
+2026-10-20,SP-006,1,CUST-01,Rift Valley Haulage Ltd
+2026-10-20,SP-007,1,CUST-02,Eldoret Transporters Co.
+2026-10-20,SP-008,2,CUST-19,Bridge-Way Motors
+2026-10-20,SP-011,1,CUST-19,Bridge-Way Motors
+2026-10-20,SP-012,1,CUST-13,Kobil Haulers
+2026-10-20,SP-013,2,CUST-17,Laser Freight
+2026-10-20,SP-015,1,CUST-14,Lessos Truck Repairs
+2026-10-20,SP-018,1,CUST-03,K-Kiv Freight Ltd
+2026-10-21,SP-001,6,CUST-03,K-Kiv Freight Ltd
+2026-10-21,SP-002,3,CUST-09,Turbo Cargo Movers
+2026-10-21,SP-003,1,CUST-19,Bridge-Way Motors
+2026-10-21,SP-004,3,CUST-17,Laser Freight
+2026-10-21,SP-005,2,CUST-19,Bridge-Way Motors
+2026-10-21,SP-006,1,CUST-19,Bridge-Way Motors
+2026-10-21,SP-008,2,CUST-04,ShoreLine Petroleum
+2026-10-21,SP-012,3,CUST-04,ShoreLine Petroleum
+2026-10-21,SP-014,1,CUST-03,K-Kiv Freight Ltd
+2026-10-21,SP-018,1,CUST-17,Laser Freight
+2026-10-21,SP-019,3,CUST-19,Bridge-Way Motors
+2026-10-22,SP-001,5,CUST-09,Turbo Cargo Movers
+2026-10-22,SP-002,5,CUST-15,Puma Transporters
+2026-10-22,SP-003,2,CUST-03,K-Kiv Freight Ltd
+2026-10-22,SP-004,2,CUST-19,Bridge-Way Motors
+2026-10-22,SP-007,1,CUST-19,Bridge-Way Motors
+2026-10-22,SP-008,1,CUST-19,Bridge-Way Motors
+2026-10-22,SP-009,2,CUST-17,Laser Freight
+2026-10-22,SP-010,1,CUST-19,Bridge-Way Motors
+2026-10-22,SP-013,2,CUST-01,Rift Valley Haulage Ltd
+2026-10-23,SP-001,3,CUST-17,Laser Freight
+2026-10-23,SP-002,3,CUST-09,Turbo Cargo Movers
+2026-10-23,SP-004,1,CUST-19,Bridge-Way Motors
+2026-10-23,SP-005,1,CUST-17,Laser Freight
+2026-10-23,SP-006,1,CUST-19,Bridge-Way Motors
+2026-10-23,SP-007,1,CUST-17,Laser Freight
+2026-10-23,SP-009,1,CUST-06,MM Musa Oil Transportes
+2026-10-23,SP-011,1,CUST-17,Laser Freight
+2026-10-23,SP-013,3,CUST-03,K-Kiv Freight Ltd
+2026-10-23,SP-014,1,CUST-19,Bridge-Way Motors
+2026-10-23,SP-016,1,CUST-19,Bridge-Way Motors
+2026-10-23,SP-017,1,CUST-04,ShoreLine Petroleum
+2026-10-23,SP-018,5,CUST-17,Laser Freight
+2026-10-24,SP-001,3,CUST-11,DT Auto Garage
+2026-10-24,SP-002,2,CUST-09,Turbo Cargo Movers
+2026-10-24,SP-005,2,CUST-17,Laser Freight
+2026-10-24,SP-006,1,CUST-04,ShoreLine Petroleum
+2026-10-24,SP-007,1,CUST-01,Rift Valley Haulage Ltd
+2026-10-24,SP-009,1,CUST-03,K-Kiv Freight Ltd
+2026-10-24,SP-010,1,CUST-09,Turbo Cargo Movers
+2026-10-24,SP-014,3,CUST-19,Bridge-Way Motors
+2026-10-24,SP-017,1,CUST-19,Bridge-Way Motors
+2026-10-24,SP-018,2,CUST-06,MM Musa Oil Transportes
+2026-10-26,SP-001,8,CUST-15,Puma Transporters
+2026-10-26,SP-002,4,CUST-09,Turbo Cargo Movers
+2026-10-26,SP-003,2,CUST-19,Bridge-Way Motors
+2026-10-26,SP-004,1,CUST-13,Kobil Haulers
+2026-10-26,SP-005,3,CUST-19,Bridge-Way Motors
+2026-10-26,SP-006,1,CUST-03,K-Kiv Freight Ltd
+2026-10-26,SP-008,1,CUST-19,Bridge-Way Motors
+2026-10-26,SP-009,1,CUST-03,K-Kiv Freight Ltd
+2026-10-26,SP-010,1,CUST-19,Bridge-Way Motors
+2026-10-26,SP-013,3,CUST-06,MM Musa Oil Transportes
+2026-10-26,SP-017,1,CUST-03,K-Kiv Freight Ltd
+2026-10-26,SP-018,1,CUST-09,Turbo Cargo Movers
+2026-10-27,SP-001,5,CUST-17,Laser Freight
+2026-10-27,SP-002,5,CUST-09,Turbo Cargo Movers
+2026-10-27,SP-008,1,CUST-15,Puma Transporters
+2026-10-27,SP-011,1,CUST-13,Kobil Haulers
+2026-10-27,SP-013,2,CUST-09,Turbo Cargo Movers
+2026-10-27,SP-017,1,CUST-14,Lessos Truck Repairs
+2026-10-27,SP-018,4,CUST-06,MM Musa Oil Transportes
+2026-10-28,SP-001,2,CUST-17,Laser Freight
+2026-10-28,SP-002,3,CUST-01,Rift Valley Haulage Ltd
+2026-10-28,SP-003,1,CUST-19,Bridge-Way Motors
+2026-10-28,SP-004,1,CUST-13,Kobil Haulers
+2026-10-28,SP-005,2,CUST-17,Laser Freight
+2026-10-28,SP-006,1,CUST-17,Laser Freight
+2026-10-28,SP-007,1,CUST-16,Nakuru Heavy Motors
+2026-10-28,SP-008,1,CUST-09,Turbo Cargo Movers
+2026-10-28,SP-009,1,CUST-02,Eldoret Transporters Co.
+2026-10-28,SP-010,1,CUST-16,Nakuru Heavy Motors
+2026-10-28,SP-012,2,CUST-09,Turbo Cargo Movers
+2026-10-28,SP-013,1,CUST-09,Turbo Cargo Movers
+2026-10-28,SP-014,1,CUST-17,Laser Freight
+2026-10-28,SP-015,2,CUST-17,Laser Freight
+2026-10-29,SP-001,3,CUST-09,Turbo Cargo Movers
+2026-10-29,SP-002,3,CUST-09,Turbo Cargo Movers
+2026-10-29,SP-003,1,CUST-09,Turbo Cargo Movers
+2026-10-29,SP-004,2,CUST-09,Turbo Cargo Movers
+2026-10-29,SP-005,1,CUST-06,MM Musa Oil Transportes
+2026-10-29,SP-007,1,CUST-03,K-Kiv Freight Ltd
+2026-10-29,SP-008,2,CUST-09,Turbo Cargo Movers
+2026-10-29,SP-013,2,CUST-19,Bridge-Way Motors
+2026-10-30,SP-001,2,CUST-16,Nakuru Heavy Motors
+2026-10-30,SP-002,4,CUST-19,Bridge-Way Motors
+2026-10-30,SP-003,2,CUST-15,Puma Transporters
+2026-10-30,SP-004,4,CUST-09,Turbo Cargo Movers
+2026-10-30,SP-006,1,CUST-13,Kobil Haulers
+2026-10-30,SP-007,2,CUST-01,Rift Valley Haulage Ltd
+2026-10-30,SP-009,1,CUST-06,MM Musa Oil Transportes
+2026-10-30,SP-010,1,CUST-09,Turbo Cargo Movers
+2026-10-30,SP-012,3,CUST-14,Lessos Truck Repairs
+2026-10-30,SP-013,1,CUST-16,Nakuru Heavy Motors
+2026-10-30,SP-014,1,CUST-11,DT Auto Garage
+2026-10-30,SP-016,1,CUST-09,Turbo Cargo Movers
+2026-10-30,SP-017,4,CUST-04,ShoreLine Petroleum
+2026-10-30,SP-018,1,CUST-11,DT Auto Garage
+2026-10-30,SP-019,1,CUST-19,Bridge-Way Motors
+2026-10-31,SP-001,3,CUST-17,Laser Freight
+2026-10-31,SP-002,5,CUST-03,K-Kiv Freight Ltd
+2026-10-31,SP-003,1,CUST-02,Eldoret Transporters Co.
+2026-10-31,SP-006,3,CUST-13,Kobil Haulers
+2026-10-31,SP-008,1,CUST-15,Puma Transporters
+2026-10-31,SP-010,1,CUST-09,Turbo Cargo Movers
+2026-10-31,SP-013,1,CUST-17,Laser Freight
+2026-10-31,SP-014,1,CUST-17,Laser Freight
+2026-10-31,SP-018,1,CUST-16,Nakuru Heavy Motors
+2026-11-02,SP-001,2,CUST-04,ShoreLine Petroleum
+2026-11-02,SP-002,6,CUST-03,K-Kiv Freight Ltd
+2026-11-02,SP-004,1,CUST-01,Rift Valley Haulage Ltd
+2026-11-02,SP-005,2,CUST-04,ShoreLine Petroleum
+2026-11-02,SP-009,1,CUST-11,DT Auto Garage
+2026-11-02,SP-012,1,CUST-17,Laser Freight
+2026-11-02,SP-014,2,CUST-02,Eldoret Transporters Co.
+2026-11-02,SP-015,2,CUST-09,Turbo Cargo Movers
+2026-11-02,SP-016,1,CUST-15,Puma Transporters
+2026-11-02,SP-017,1,CUST-03,K-Kiv Freight Ltd
+2026-11-02,SP-019,1,CUST-16,Nakuru Heavy Motors
+2026-11-03,SP-001,2,CUST-11,DT Auto Garage
+2026-11-03,SP-002,2,CUST-04,ShoreLine Petroleum
+2026-11-03,SP-006,2,CUST-16,Nakuru Heavy Motors
+2026-11-03,SP-007,1,CUST-01,Rift Valley Haulage Ltd
+2026-11-03,SP-015,1,CUST-17,Laser Freight
+2026-11-03,SP-017,2,CUST-17,Laser Freight
+2026-11-03,SP-019,1,CUST-03,K-Kiv Freight Ltd
+2026-11-04,SP-001,7,CUST-09,Turbo Cargo Movers
+2026-11-04,SP-002,1,CUST-03,K-Kiv Freight Ltd
+2026-11-04,SP-003,1,CUST-19,Bridge-Way Motors
+2026-11-04,SP-004,2,CUST-13,Kobil Haulers
+2026-11-04,SP-006,2,CUST-02,Eldoret Transporters Co.
+2026-11-04,SP-007,1,CUST-04,ShoreLine Petroleum
+2026-11-04,SP-008,2,CUST-17,Laser Freight
+2026-11-04,SP-013,1,CUST-11,DT Auto Garage
+2026-11-04,SP-017,2,CUST-17,Laser Freight
+2026-11-04,SP-018,2,CUST-16,Nakuru Heavy Motors
+2026-11-04,SP-019,1,CUST-19,Bridge-Way Motors
+2026-11-05,SP-001,3,CUST-14,Lessos Truck Repairs
+2026-11-05,SP-002,4,CUST-19,Bridge-Way Motors
+2026-11-05,SP-004,3,CUST-19,Bridge-Way Motors
+2026-11-05,SP-006,3,CUST-15,Puma Transporters
+2026-11-05,SP-009,1,CUST-17,Laser Freight
+2026-11-05,SP-010,1,CUST-13,Kobil Haulers
+2026-11-05,SP-012,1,CUST-17,Laser Freight
+2026-11-05,SP-013,1,CUST-13,Kobil Haulers
+2026-11-05,SP-014,1,CUST-19,Bridge-Way Motors
+2026-11-05,SP-017,2,CUST-17,Laser Freight
+2026-11-05,SP-018,1,CUST-11,DT Auto Garage
+2026-11-06,SP-001,6,CUST-06,MM Musa Oil Transportes
+2026-11-06,SP-002,3,CUST-06,MM Musa Oil Transportes
+2026-11-06,SP-004,1,CUST-15,Puma Transporters
+2026-11-06,SP-006,1,CUST-17,Laser Freight
+2026-11-06,SP-007,2,CUST-11,DT Auto Garage
+2026-11-06,SP-009,2,CUST-14,Lessos Truck Repairs
+2026-11-06,SP-011,1,CUST-07,Shell Motors
+2026-11-06,SP-013,1,CUST-02,Eldoret Transporters Co.
+2026-11-06,SP-014,1,CUST-07,Shell Motors
+2026-11-06,SP-018,4,CUST-06,MM Musa Oil Transportes
+2026-11-06,SP-019,1,CUST-09,Turbo Cargo Movers
+2026-11-07,SP-001,4,CUST-11,DT Auto Garage
+2026-11-07,SP-003,1,CUST-03,K-Kiv Freight Ltd
+2026-11-07,SP-004,3,CUST-06,MM Musa Oil Transportes
+2026-11-07,SP-006,2,CUST-16,Nakuru Heavy Motors
+2026-11-07,SP-007,1,CUST-16,Nakuru Heavy Motors
+2026-11-07,SP-008,1,CUST-02,Eldoret Transporters Co.
+2026-11-07,SP-009,1,CUST-09,Turbo Cargo Movers
+2026-11-07,SP-012,1,CUST-11,DT Auto Garage
+2026-11-07,SP-013,1,CUST-09,Turbo Cargo Movers
+2026-11-07,SP-014,2,CUST-04,ShoreLine Petroleum
+2026-11-07,SP-017,2,CUST-09,Turbo Cargo Movers
+2026-11-07,SP-018,1,CUST-19,Bridge-Way Motors
+2026-11-09,SP-001,3,CUST-13,Kobil Haulers
+2026-11-09,SP-002,4,CUST-16,Nakuru Heavy Motors
+2026-11-09,SP-003,1,CUST-17,Laser Freight
+2026-11-09,SP-004,2,CUST-17,Laser Freight
+2026-11-09,SP-006,1,CUST-09,Turbo Cargo Movers
+2026-11-09,SP-007,1,CUST-01,Rift Valley Haulage Ltd
+2026-11-09,SP-008,1,CUST-09,Turbo Cargo Movers
+2026-11-09,SP-011,3,CUST-17,Laser Freight
+2026-11-09,SP-012,1,CUST-17,Laser Freight
+2026-11-09,SP-013,2,CUST-19,Bridge-Way Motors
+2026-11-09,SP-017,1,CUST-09,Turbo Cargo Movers
+2026-11-09,SP-018,1,CUST-17,Laser Freight
+2026-11-10,SP-001,4,CUST-13,Kobil Haulers
+2026-11-10,SP-002,2,CUST-14,Lessos Truck Repairs
+2026-11-10,SP-003,1,CUST-04,ShoreLine Petroleum
+2026-11-10,SP-004,2,CUST-04,ShoreLine Petroleum
+2026-11-10,SP-007,1,CUST-09,Turbo Cargo Movers
+2026-11-10,SP-008,1,CUST-01,Rift Valley Haulage Ltd
+2026-11-10,SP-013,1,CUST-09,Turbo Cargo Movers
+2026-11-10,SP-014,1,CUST-15,Puma Transporters
+2026-11-10,SP-018,1,CUST-09,Turbo Cargo Movers
+2026-11-10,SP-019,2,CUST-03,K-Kiv Freight Ltd
+2026-11-11,SP-002,2,CUST-10,Daroon Fleet Services
+2026-11-11,SP-003,1,CUST-03,K-Kiv Freight Ltd
+2026-11-11,SP-005,1,CUST-14,Lessos Truck Repairs
+2026-11-11,SP-006,2,CUST-01,Rift Valley Haulage Ltd
+2026-11-11,SP-007,2,CUST-09,Turbo Cargo Movers
+2026-11-11,SP-008,1,CUST-13,Kobil Haulers
+2026-11-11,SP-009,2,CUST-01,Rift Valley Haulage Ltd
+2026-11-11,SP-010,1,CUST-15,Puma Transporters
+2026-11-11,SP-011,1,CUST-03,K-Kiv Freight Ltd
+2026-11-11,SP-012,1,CUST-10,Daroon Fleet Services
+2026-11-11,SP-014,1,CUST-02,Eldoret Transporters Co.
+2026-11-11,SP-015,1,CUST-09,Turbo Cargo Movers
+2026-11-11,SP-017,3,CUST-04,ShoreLine Petroleum
+2026-11-11,SP-018,3,CUST-09,Turbo Cargo Movers
+2026-11-12,SP-001,6,CUST-17,Laser Freight
+2026-11-12,SP-002,1,CUST-09,Turbo Cargo Movers
+2026-11-12,SP-003,2,CUST-17,Laser Freight
+2026-11-12,SP-004,1,CUST-17,Laser Freight
+2026-11-12,SP-006,2,CUST-06,MM Musa Oil Transportes
+2026-11-12,SP-007,5,CUST-02,Eldoret Transporters Co.
+2026-11-12,SP-009,3,CUST-01,Rift Valley Haulage Ltd
+2026-11-12,SP-018,2,CUST-11,DT Auto Garage
+2026-11-12,SP-019,1,CUST-19,Bridge-Way Motors
+2026-11-13,SP-001,4,CUST-09,Turbo Cargo Movers
+2026-11-13,SP-003,3,CUST-15,Puma Transporters
+2026-11-13,SP-004,2,CUST-17,Laser Freight
+2026-11-13,SP-006,1,CUST-15,Puma Transporters
+2026-11-13,SP-007,1,CUST-17,Laser Freight
+2026-11-13,SP-009,1,CUST-19,Bridge-Way Motors
+2026-11-13,SP-011,2,CUST-04,ShoreLine Petroleum
+2026-11-13,SP-012,1,CUST-01,Rift Valley Haulage Ltd
+2026-11-13,SP-014,1,CUST-03,K-Kiv Freight Ltd
+2026-11-13,SP-018,3,CUST-03,K-Kiv Freight Ltd
+2026-11-14,SP-001,3,CUST-15,Puma Transporters
+2026-11-14,SP-002,1,CUST-13,Kobil Haulers
+2026-11-14,SP-004,1,CUST-04,ShoreLine Petroleum
+2026-11-14,SP-005,1,CUST-16,Nakuru Heavy Motors
+2026-11-14,SP-006,1,CUST-17,Laser Freight
+2026-11-14,SP-007,1,CUST-03,K-Kiv Freight Ltd
+2026-11-14,SP-009,2,CUST-14,Lessos Truck Repairs
+2026-11-14,SP-012,2,CUST-17,Laser Freight
+2026-11-14,SP-014,1,CUST-03,K-Kiv Freight Ltd
+2026-11-14,SP-018,1,CUST-17,Laser Freight
+2026-11-16,SP-001,7,CUST-19,Bridge-Way Motors
+2026-11-16,SP-002,2,CUST-03,K-Kiv Freight Ltd
+2026-11-16,SP-003,2,CUST-01,Rift Valley Haulage Ltd
+2026-11-16,SP-004,1,CUST-07,Shell Motors
+2026-11-16,SP-006,2,CUST-15,Puma Transporters
+2026-11-16,SP-007,2,CUST-19,Bridge-Way Motors
+2026-11-16,SP-008,2,CUST-09,Turbo Cargo Movers
+2026-11-16,SP-009,1,CUST-16,Nakuru Heavy Motors
+2026-11-16,SP-011,2,CUST-02,Eldoret Transporters Co.
+2026-11-16,SP-013,1,CUST-16,Nakuru Heavy Motors
+2026-11-16,SP-014,1,CUST-14,Lessos Truck Repairs
+2026-11-16,SP-016,1,CUST-03,K-Kiv Freight Ltd
+2026-11-16,SP-018,3,CUST-17,Laser Freight
+2026-11-17,SP-002,5,CUST-17,Laser Freight
+2026-11-17,SP-003,3,CUST-14,Lessos Truck Repairs
+2026-11-17,SP-004,1,CUST-03,K-Kiv Freight Ltd
+2026-11-17,SP-006,1,CUST-19,Bridge-Way Motors
+2026-11-17,SP-008,1,CUST-17,Laser Freight
+2026-11-17,SP-009,1,CUST-09,Turbo Cargo Movers
+2026-11-17,SP-012,2,CUST-09,Turbo Cargo Movers
+2026-11-17,SP-014,1,CUST-09,Turbo Cargo Movers
+2026-11-18,SP-001,1,CUST-11,DT Auto Garage
+2026-11-18,SP-002,5,CUST-09,Turbo Cargo Movers
+2026-11-18,SP-003,1,CUST-17,Laser Freight
+2026-11-18,SP-006,3,CUST-17,Laser Freight
+2026-11-18,SP-007,3,CUST-03,K-Kiv Freight Ltd
+2026-11-18,SP-009,3,CUST-19,Bridge-Way Motors
+2026-11-18,SP-010,1,CUST-14,Lessos Truck Repairs
+2026-11-18,SP-018,3,CUST-17,Laser Freight
+2026-11-18,SP-020,1,CUST-16,Nakuru Heavy Motors

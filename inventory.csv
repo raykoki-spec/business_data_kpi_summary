@@ -1,0 +1,21 @@
+product_id,product_name,category,compatible_vehicles,unit_price_kes,current_stock,reorder_level,lead_time_days
+SP-001,Oil Filter,Filters,Isuzu FRR/FVR,1500,85,60,3
+SP-002,Fuel Filter Element,Filters,Mercedes Actros,1800,30,45,3
+SP-003,Air Filter Element,Filters,Scania P/R Series,4500,34,20,5
+SP-004,Engine Oil 15W-40 (20L),Lubricants,Universal,14500,18,25,2
+SP-005,Gear Oil 80W-90 (20L),Lubricants,Universal,12000,16,10,2
+SP-006,Brake Pad Set (Front),Brakes,Fuso Fighter,6500,40,25,4
+SP-007,Brake Lining Set (Rear),Brakes,Isuzu FRR/FVR,5800,7,20,4
+SP-008,Brake Drum,Brakes,FAW 6x4,11000,14,8,7
+SP-009,Clutch Plate,Transmission,Mercedes Actros,13500,6,10,7
+SP-010,Clutch Pressure Plate,Transmission,Scania P/R Series,18000,9,6,7
+SP-011,Leaf Spring (Main Leaf),Suspension,FAW 6x4,16500,12,8,10
+SP-012,Shock Absorber,Suspension,Fuso Fighter,7500,22,14,5
+SP-013,Wheel Hub Bearing Set,Bearings,Isuzu FRR/FVR,8500,0,16,5
+SP-014,Propeller Shaft Cross (U-Joint),Transmission,Universal,3800,28,15,4
+SP-015,Alternator 24V,Electrical,Mercedes Actros,28000,4,3,10
+SP-016,Starter Motor 24V,Electrical,Scania P/R Series,32000,5,3,10
+SP-017,Radiator Hose,Cooling,FAW 6x4,2800,20,12,4
+SP-018,Fan Belt,Cooling,Universal,1900,35,20,3
+SP-019,Injector Nozzle,Fuel System,Isuzu FRR/FVR,6500,12,10,7
+SP-020,Turbocharger,Engine,Scania P/R Series,85000,2,1,14

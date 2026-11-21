@@ -1,0 +1,5 @@
+KPI,Current,Previous,Change,Status,What it means
+Monthly revenue,"KES 3,464,600","KES 3,149,500",+10.0%,Good,Sales rose 10.0% compared with the previous 30 days.
+Growth rate,10.0%,n/a,n/a,Neutral,"Revenue grew 10.0% this period. There is no earlier period to compare with, so we can't say if growth is speeding up."
+Churn rate,18.8%,n/a,n/a,Neutral,18.8% of last period's customers did not buy this period. There is no earlier period to compare with.
+Avg order value,"KES 18,627","KES 17,497","+1,130 KES",Good,Customers spend more per order than last period.
